@@ -40,9 +40,8 @@ Adaptability | Attention to Detail | Creativity | Critical Thinking | Time Manag
 
 
 ## 📫 Get in Touch
-- **LinkedIn:** [Jumoke Oduomah]([https://www.linkedin.com/in/bestohah/](https://www.linkedin.com/in/jumoke-olantun-adeyemi/))
+- **LinkedIn:** [Jumoke Oduomah](https://www.linkedin.com/in/jumoke-olantun-adeyemi/)
 - **Email:** [adeyemijumokeolantun@gmail.com](mailto:adeyemijumokeolantun@gmail.com)
-**Portfolio:** [Best Ohah](https://nine-spoon-ecd.notion.site/Best-Ohah-s-Portfolio-d4b2e1f9770d4773a35a06003d49e0af)
   
 ## 🌟 AWARDS & SCHOLARSHIP
 - **World Bank Scholarship Sponsorship for Msc in Bioinformatics** Covenant University, Nigeria
