@@ -16,15 +16,17 @@ Welcome to my GitHub! I'm a Data Analyst with 3 years of experience, showcasing 
 - [A/B Testing](https://github.com/dzumii/Data_Analytics_Projects/AB_Testing)
 ### Machine Learning
 - [A Loan Approval Model](https://github.com/dzumii/MLzoomcamp/tree/main/LoanApproval)
-- [A Salary Prediction Model](https://github.com/dzumii/MLzoomcamp/tree/main/Predict_Salaries))
+- [A Salary Prediction Model](https://github.com/dzumii/MLzoomcamp/tree/main/Predict_Salaries)
 - [Q&A LLM System](https://github.com/dzumii/AISOC_Projects/tree/main/Simple_LLM)
 - [A malaria cell image classifier](https://github.com/dzumii/Kx)
 
 ## 🔧 AREA OF EXPERTISE
 - **TECHNICAL SKILLS:** Data Analysis and Visualization | Database Management System (SQL) | Machine Learning Libraries |
 Statistical Analysis | Bash Scripting |  Microsoft Office Suite | Collaboration and Version Control  | Python Programming
+
 - **TOOLS:** Microsoft Excel | Power BI | Tableau | Scikit-learn | XGBoost | Tensorflow | SQL | GitHub |
 Python | SQL | R | Linux | Microsoft Word | Microsoft PowerPoint | Microsoft Outlook
+
 - **SOFT SKILLS:** Analytical Thinking | Problem-Solving | Effective Communication | Collaboration |
 Adaptability | Attention to Detail | Creativity | Critical Thinking | Time Management | Decision-Making
 
@@ -46,7 +48,7 @@ Adaptability | Attention to Detail | Creativity | Critical Thinking | Time Manag
 ## 🌟 AWARDS & SCHOLARSHIP
 - **World Bank Scholarship Sponsorship for Msc in Bioinformatics** Covenant University, Nigeria
 - **Special Recognition award for Diligence in 2023:** Pricepally, Nigeria
-- - **Administrative Staff of the year 2023:** Pricepally, Nigeria
+- **Administrative Staff of the year 2023:** Pricepally, Nigeria
 
 
 
