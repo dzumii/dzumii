@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a Data Analyst with 3 years of experience, showcasing 
 
 ## 🔧 Take a glance at my Projects
 ### [Data Analytics](https://github.com/dzumii/Data_Analytics_Projects/edit/main/README.md)
-- [Cohort, Retention and Churn Analysis](https://github.com/dzumii/Data_Analytics_Projects/Cohort_Retention_Churn)
+- [Cohort, Retention and Churn Analysis](https://github.com/dzumii/Data_Analytics_Projects/tree/main/Cohort_Retention_Churn)
 
 - [Funnel Analysis](https://github.com/dzumii/Data_Analytics_Projects/tree/main/Funnel_Analysis)
 
