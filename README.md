@@ -7,13 +7,13 @@ Welcome to my GitHub! I'm a Data Analyst with 3 years of experience, showcasing 
 ### [Data Analytics](https://github.com/dzumii/Data_Analytics_Projects/edit/main/README.md)
 - [Cohort, Retention and Churn Analysis](https://github.com/dzumii/Data_Analytics_Projects/Cohort_Retention_Churn)
 
-- [Funnel Analysis](https://github.com/dzumii/Data_Analytics_Projects/Funnel_Analysis)
+- [Funnel Analysis](https://github.com/dzumii/Data_Analytics_Projects/tree/main/Funnel_Analysis)
 
-- [Customer Segmentation using RFM](https://github.com/dzumii/Data_Analytics_Projects/Customer_Segmentation_using_RFM)
+- [Customer Segmentation using RFM](https://github.com/dzumii/Data_Analytics_Projects/tree/main/Customer_Segmentation_using_RFM)
 
-- [Customer Lifetime Value Analysis](https://github.com/dzumii/Data_Analytics_Projects/Customer_Lifetime_Value)
+- [Customer Lifetime Value Analysis](https://github.com/dzumii/Data_Analytics_Projects/tree/main/Customer_Lifetime_Value)
 
-- [A/B Testing](https://github.com/dzumii/Data_Analytics_Projects/AB_Testing)
+- [A/B Testing](https://github.com/dzumii/Data_Analytics_Projects/tree/main/AB_Testing)
 ### Machine Learning
 - [A Loan Approval Model](https://github.com/dzumii/MLzoomcamp/tree/main/LoanApproval)
 - [A Salary Prediction Model](https://github.com/dzumii/MLzoomcamp/tree/main/Predict_Salaries)
