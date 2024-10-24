@@ -53,7 +53,7 @@ Adaptability | Attention to Detail | Creativity | Critical Thinking | Time Manag
 - **Administrative Staff of the year 2023:** Pricepally, Nigeria
 
 ## 📫 Get in Touch
-- **LinkedIn:** [Jumoke Oduomah](https://www.linkedin.com/in/jumoke-olantun-adeyemi/)
+- **LinkedIn:** [Jumoke Adeyemi Oduomah](https://www.linkedin.com/in/jumoke-olantun-adeyemi/)
 - **Email:** [adeyemijumokeolantun@gmail.com](mailto:adeyemijumokeolantun@gmail.com)
   
 
