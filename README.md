@@ -16,8 +16,11 @@ Welcome to my GitHub! I'm a Data Analyst with 3 years of experience, showcasing 
 - [A/B Testing](https://github.com/dzumii/Data_Analytics_Projects/tree/main/AB_Testing)
 ### Machine Learning
 - [A Loan Approval Model](https://github.com/dzumii/MLzoomcamp/tree/main/LoanApproval)
+  
 - [A Salary Prediction Model](https://github.com/dzumii/MLzoomcamp/tree/main/Predict_Salaries)
+  
 - [Q&A LLM System](https://github.com/dzumii/AISOC_Projects/tree/main/Simple_LLM)
+  
 - [A malaria cell image classifier](https://github.com/dzumii/Kx)
 
 ## 🔧 AREA OF EXPERTISE
@@ -40,15 +43,19 @@ Adaptability | Attention to Detail | Creativity | Critical Thinking | Time Manag
 - **👨‍💻 Master of Science (M. Sc.) in Bioinformatics (Distinction:4.59/5.0)** Covenant University, Nigeria
 - **🎓 Bachelor of Science (B. Sc.) in Microbiology (Second Class Honours:4.45/5.0)** Obafemi Awolowo University, Nigeria
 
+## 🧠 Certification
+- **👨‍💻 Turing College** Data Analytics
+- **👨‍💻 Africa Agility Foundation** Data Science and Machine Learning
+
+## 🌟 AWARDS & SCHOLARSHIP
+- **World Bank Scholarship Sponsorship for Msc in Bioinformatics** Covenant University, Nigeria
+- **Special Recognition award for Diligence in 2023:** Pricepally, Nigeria
+- **Administrative Staff of the year 2023:** Pricepally, Nigeria
 
 ## 📫 Get in Touch
 - **LinkedIn:** [Jumoke Oduomah](https://www.linkedin.com/in/jumoke-olantun-adeyemi/)
 - **Email:** [adeyemijumokeolantun@gmail.com](mailto:adeyemijumokeolantun@gmail.com)
   
-## 🌟 AWARDS & SCHOLARSHIP
-- **World Bank Scholarship Sponsorship for Msc in Bioinformatics** Covenant University, Nigeria
-- **Special Recognition award for Diligence in 2023:** Pricepally, Nigeria
-- **Administrative Staff of the year 2023:** Pricepally, Nigeria
 
 
 
