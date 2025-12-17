@@ -1,6 +1,6 @@
 # 👋 Hello, I’m Jumoke!
 
-Welcome to my GitHub! I'm a Data Analyst with 3 years of experience, showcasing advanced proficiency in Python and Microsoft Excel, complemented by intermediate skills in PowerBI and SQL, and a solid foundation in statistical analysis. I am  Proficient in data analysis using tools such as Microsoft Excel, Python, Google Looker Studio, and Power BI, with a focus on dashboard creation, product analysis, user analysis, churn analysis, and machine learning, contributing to an increase in actionable insights. I have a proven track record of  collaborating with clients to solve business problems and driving a massive improvement in data-driven decision-making processes. Eager to bring technical expertise, leadership skills, and a proactive approach to a dynamic Data Analyst role to drive measurable improvements in data analytics processes.
+Welcome to my GitHub! I'm a Data Analyst with over 5 years of experience, showcasing advanced proficiency in Python and Microsoft Excel, complemented by intermediate skills in PowerBI and SQL, and a solid foundation in statistical analysis. I am  Proficient in data analysis using tools such as Microsoft Excel, Python, Google Looker Studio, and Power BI, with a focus on dashboard creation, product analysis, user analysis, churn analysis, and machine learning, contributing to an increase in actionable insights. I have a proven track record of  collaborating with clients to solve business problems and driving a massive improvement in data-driven decision-making processes. Eager to bring technical expertise, leadership skills, and a proactive approach to a dynamic Data Analyst role to drive measurable improvements in data analytics processes.
 
 
 ## 🔧 Take a glance at my Projects
@@ -40,6 +40,7 @@ Adaptability | Attention to Detail | Creativity | Critical Thinking | Time Manag
 - **🔬 Data Analyst Intern | EntryLevel, Australia.** Aug 2021-Sept 2021
 
 ## 🧠 Education
+- **👨‍💻 Master of Business Administration (MBA)** Miva Open University, Nigeria
 - **👨‍💻 Master of Science (M. Sc.) in Bioinformatics (Distinction:4.59/5.0)** Covenant University, Nigeria
 - **🎓 Bachelor of Science (B. Sc.) in Microbiology (Second Class Honours:4.45/5.0)** Obafemi Awolowo University, Nigeria
 
