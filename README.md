@@ -1,6 +1,6 @@
 # 👋 Hello, I’m Jumoke!
 
-Welcome to my Portfolio! I am an AI Engineer with  over 5 years of experience transforming data into intelligent, scalable solutions. My expertise spans Python, SQL, and machine learning, with hands-on experience designing and deploying AI-driven systems, including recommendation engines, object detection models (YOLO, Detectron2), and retrieval-augmented generation (RAG) applications.
+Welcome to my Portfolio! I am an AI Engineer with  over 5 years of experience transforming data into intelligent, scalable solutions. My expertise spans Python, SQL, and machine learning, with hands-on experience designing and deploying AI-driven systems, including recommendation engines, object detection models, and retrieval-augmented generation (RAG) applications.
 
 I specialize in building end-to-end AI solutions, from data preprocessing and model development to API deployment and system integration, with a focus on solving real-world business problems. My work includes developing hybrid recommendation systems, implementing intelligent support assistants, and leveraging cloud-based architectures for scalable model delivery.
 
@@ -32,7 +32,7 @@ I am particularly interested in applying AI to large-scale customer ecosystems, 
 
 
 ## 🔧 AREA OF EXPERTISE
-- **TECHNICAL SKILLS:**
+ **TECHNICAL SKILLS:**
 - AI & MACHINE LEARNING: Model development, training, evaluation, and optimization (supervised & unsupervised learning) | Deep Learning | Recommendation Systems | Natural Language Processing (NLP) | Retrieval-Augmented Generation (RAG) | Computer Vision (Object Detection – YOLO, Detectron2)
   
 - DATA & ANALYTICS FOUNDATION: Data preprocessing, feature engineering, exploratory data analysis (EDA) | Statistical analysis | Customer analytics (churn, segmentation, CLV) | Experimentation & A/B testing
@@ -41,7 +41,7 @@ I am particularly interested in applying AI to large-scale customer ecosystems, 
 
 - SOFTWARE & ENGINEERING PRACTICES: Python programming | Version control (Git/GitHub) | Linux environment | Bash scripting 
 
-- **TOOLS:**
+ **TOOLS:**
 - Programming & Data: Python | SQL
 - Machine Learning & AI: Scikit-learn | XGBoost | TensorFlow | PyTorch | OpenCV
 - LLMs & Modern AI: LangChain | Vector Databases (e.g., FAISS) | Embeddings APIs
@@ -49,7 +49,7 @@ I am particularly interested in applying AI to large-scale customer ecosystems, 
 - Data & Visualization (supporting): Power BI | Tableau | Excel
 - Infrastructure & Workflow: GitHub | Linux | Cloud Storage (AWS S3 / GCP)
 
-- **SOFT SKILLS:**
+ **SOFT SKILLS:**
 - Analytical Thinking | Problem-Solving | Effective Communication | Collaboration |
 Adaptability | Attention to Detail | Creativity | Critical Thinking | Time Management | Decision-Making
 
