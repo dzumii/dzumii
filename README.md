@@ -1,6 +1,12 @@
 # 👋 Hello, I’m Jumoke!
 
-Welcome to my GitHub! I'm a Data Analyst with over 5 years of experience, showcasing advanced proficiency in Python and Microsoft Excel, complemented by intermediate skills in PowerBI and SQL, and a solid foundation in statistical analysis. I am  Proficient in data analysis using tools such as Microsoft Excel, Python, Google Looker Studio, and Power BI, with a focus on dashboard creation, product analysis, user analysis, churn analysis, and machine learning, contributing to an increase in actionable insights. I have a proven track record of  collaborating with clients to solve business problems and driving a massive improvement in data-driven decision-making processes. Eager to bring technical expertise, leadership skills, and a proactive approach to a dynamic Data Analyst role to drive measurable improvements in data analytics processes.
+Welcome to my Portfolio! I am an AI Engineer with  over 5 years of experience transforming data into intelligent, scalable solutions. My expertise spans Python, SQL, and machine learning, with hands-on experience designing and deploying AI-driven systems, including recommendation engines, object detection models (YOLO, Detectron2), and retrieval-augmented generation (RAG) applications.
+
+I specialize in building end-to-end AI solutions, from data preprocessing and model development to API deployment and system integration, with a focus on solving real-world business problems. My work includes developing hybrid recommendation systems, implementing intelligent support assistants, and leveraging cloud-based architectures for scalable model delivery.
+
+With a solid background in analytics, I bring a strong understanding of user behavior, product metrics, and data-driven decision-making, enabling me to build AI systems that are impactful in production environments.
+
+I am particularly interested in applying AI to large-scale customer ecosystems, personalization, and intelligent automation. I am eager to contribute my technical expertise, problem-solving mindset, and passion for AI to build solutions that drive efficiency, enhance customer experience, and unlock new value.
 
 
 ## 🔧 Take a glance at my Projects
@@ -24,17 +30,24 @@ Welcome to my GitHub! I'm a Data Analyst with over 5 years of experience, showca
 - [A malaria cell image classifier](https://github.com/dzumii/Kx)
 
 ## 🔧 AREA OF EXPERTISE
-- **TECHNICAL SKILLS:** Data Analysis and Visualization | Database Management System (SQL) | Machine Learning Libraries |
-Statistical Analysis | Bash Scripting |  Microsoft Office Suite | Collaboration and Version Control  | Python Programming
+- **TECHNICAL SKILLS:** AI & MACHINE LEARNING: Model development, training, evaluation, and optimization (supervised & unsupervised learning) | Deep Learning | Recommendation Systems | Natural Language Processing (NLP) | Retrieval-Augmented Generation (RAG) | Computer Vision (Object Detection – YOLO, Detectron2)
+DATA & ANALYTICS FOUNDATION: Data preprocessing, feature engineering, exploratory data analysis (EDA) | Statistical analysis | Customer analytics (churn, segmentation, CLV) | Experimentation & A/B testing
+AI SYSTEMS & DEPLOYMENT: API development (Flask/FastAPI) | Model deployment & integration | Building end-to-end ML pipelines | Real-time and batch inference systems | Cloud storage & model serving (AWS S3 / similar)
+SOFTWARE & ENGINEERING PRACTICES: Python programming | Version control (Git/GitHub) | Linux environment | Bash scripting 
 
-- **TOOLS:** Microsoft Excel | Power BI | Tableau | Scikit-learn | XGBoost | Tensorflow | SQL | GitHub |
-Python | SQL | R | Linux | Microsoft Word | Microsoft PowerPoint | Microsoft Outlook
+- **TOOLS:** Programming & Data: Python | SQL
+Machine Learning & AI: Scikit-learn | XGBoost | TensorFlow | PyTorch | OpenCV
+LLMs & Modern AI: LangChain | Vector Databases (e.g., FAISS) | Embeddings APIs
+Deployment & Backend: Flask | FastAPI
+Data & Visualization (supporting): Power BI | Tableau | Excel
+Infrastructure & Workflow: GitHub | Linux | Cloud Storage (AWS S3 / GCP)
 
 - **SOFT SKILLS:** Analytical Thinking | Problem-Solving | Effective Communication | Collaboration |
 Adaptability | Attention to Detail | Creativity | Critical Thinking | Time Management | Decision-Making
 
   
 ## 🧠 Experience
+- **👨‍💻 AI Engineer | International Breweries, Nigeria** 2024-Present
 - **👨‍💻 Data Analyst | Pricepally, Nigeria** 2021-2024
 - **🎓 Data Scientist Intern | GAMES Consort, Nigeria.** Aug 2021-Dec 2021
 - **🔬 Data Analyst Intern | EntryLevel, Australia.** Aug 2021-Sept 2021
@@ -45,6 +58,7 @@ Adaptability | Attention to Detail | Creativity | Critical Thinking | Time Manag
 - **🎓 Bachelor of Science (B. Sc.) in Microbiology (Second Class Honours:4.45/5.0)** Obafemi Awolowo University, Nigeria
 
 ## 🧠 Certification
+- **👨‍💻 MLZoomcamp** Machine Learning
 - **👨‍💻 Turing College** Data Analytics
 - **👨‍💻 Africa Agility Foundation** Data Science and Machine Learning
 
