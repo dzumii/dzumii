@@ -32,22 +32,25 @@ I am particularly interested in applying AI to large-scale customer ecosystems, 
 
 
 ## 🔧 AREA OF EXPERTISE
-- **TECHNICAL SKILLS:** AI & MACHINE LEARNING: Model development, training, evaluation, and optimization (supervised & unsupervised learning) | Deep Learning | Recommendation Systems | Natural Language Processing (NLP) | Retrieval-Augmented Generation (RAG) | Computer Vision (Object Detection – YOLO, Detectron2)
+- **TECHNICAL SKILLS:**
+- AI & MACHINE LEARNING: Model development, training, evaluation, and optimization (supervised & unsupervised learning) | Deep Learning | Recommendation Systems | Natural Language Processing (NLP) | Retrieval-Augmented Generation (RAG) | Computer Vision (Object Detection – YOLO, Detectron2)
   
-DATA & ANALYTICS FOUNDATION: Data preprocessing, feature engineering, exploratory data analysis (EDA) | Statistical analysis | Customer analytics (churn, segmentation, CLV) | Experimentation & A/B testing
+- DATA & ANALYTICS FOUNDATION: Data preprocessing, feature engineering, exploratory data analysis (EDA) | Statistical analysis | Customer analytics (churn, segmentation, CLV) | Experimentation & A/B testing
 
-AI SYSTEMS & DEPLOYMENT: API development (Flask/FastAPI) | Model deployment & integration | Building end-to-end ML pipelines | Real-time and batch inference systems | Cloud storage & model serving (AWS S3 / similar)
+- AI SYSTEMS & DEPLOYMENT: API development (Flask/FastAPI) | Model deployment & integration | Building end-to-end ML pipelines | Real-time and batch inference systems | Cloud storage & model serving (AWS S3 / similar)
 
-SOFTWARE & ENGINEERING PRACTICES: Python programming | Version control (Git/GitHub) | Linux environment | Bash scripting 
+- SOFTWARE & ENGINEERING PRACTICES: Python programming | Version control (Git/GitHub) | Linux environment | Bash scripting 
 
-- **TOOLS:** Programming & Data: Python | SQL
-Machine Learning & AI: Scikit-learn | XGBoost | TensorFlow | PyTorch | OpenCV
-LLMs & Modern AI: LangChain | Vector Databases (e.g., FAISS) | Embeddings APIs
-Deployment & Backend: Flask | FastAPI
-Data & Visualization (supporting): Power BI | Tableau | Excel
-Infrastructure & Workflow: GitHub | Linux | Cloud Storage (AWS S3 / GCP)
+- **TOOLS:**
+- Programming & Data: Python | SQL
+- Machine Learning & AI: Scikit-learn | XGBoost | TensorFlow | PyTorch | OpenCV
+- LLMs & Modern AI: LangChain | Vector Databases (e.g., FAISS) | Embeddings APIs
+- Deployment & Backend: Flask | FastAPI
+- Data & Visualization (supporting): Power BI | Tableau | Excel
+- Infrastructure & Workflow: GitHub | Linux | Cloud Storage (AWS S3 / GCP)
 
-- **SOFT SKILLS:** Analytical Thinking | Problem-Solving | Effective Communication | Collaboration |
+- **SOFT SKILLS:**
+- Analytical Thinking | Problem-Solving | Effective Communication | Collaboration |
 Adaptability | Attention to Detail | Creativity | Critical Thinking | Time Management | Decision-Making
 
   
