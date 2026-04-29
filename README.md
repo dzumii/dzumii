@@ -10,6 +10,15 @@ I am particularly interested in applying AI to large-scale customer ecosystems, 
 
 
 ## 🔧 Take a glance at my Projects
+### Machine Learning
+- [A Loan Approval Model](https://github.com/dzumii/MLzoomcamp/tree/main/LoanApproval)
+  
+- [A Salary Prediction Model](https://github.com/dzumii/MLzoomcamp/tree/main/Predict_Salaries)
+  
+- [Q&A LLM System](https://github.com/dzumii/AISOC_Projects/tree/main/Simple_LLM)
+  
+- [A malaria cell image classifier](https://github.com/dzumii/Kx)
+  
 ### [Data Analytics](https://github.com/dzumii/Data_Analytics_Projects/edit/main/README.md)
 - [Cohort, Retention and Churn Analysis](https://github.com/dzumii/Data_Analytics_Projects/tree/main/Cohort_Retention_Churn)
 
@@ -20,19 +29,15 @@ I am particularly interested in applying AI to large-scale customer ecosystems, 
 - [Customer Lifetime Value Analysis](https://github.com/dzumii/Data_Analytics_Projects/tree/main/Customer_Lifetime_Value)
 
 - [A/B Testing](https://github.com/dzumii/Data_Analytics_Projects/tree/main/AB_Testing)
-### Machine Learning
-- [A Loan Approval Model](https://github.com/dzumii/MLzoomcamp/tree/main/LoanApproval)
-  
-- [A Salary Prediction Model](https://github.com/dzumii/MLzoomcamp/tree/main/Predict_Salaries)
-  
-- [Q&A LLM System](https://github.com/dzumii/AISOC_Projects/tree/main/Simple_LLM)
-  
-- [A malaria cell image classifier](https://github.com/dzumii/Kx)
+
 
 ## 🔧 AREA OF EXPERTISE
 - **TECHNICAL SKILLS:** AI & MACHINE LEARNING: Model development, training, evaluation, and optimization (supervised & unsupervised learning) | Deep Learning | Recommendation Systems | Natural Language Processing (NLP) | Retrieval-Augmented Generation (RAG) | Computer Vision (Object Detection – YOLO, Detectron2)
+  
 DATA & ANALYTICS FOUNDATION: Data preprocessing, feature engineering, exploratory data analysis (EDA) | Statistical analysis | Customer analytics (churn, segmentation, CLV) | Experimentation & A/B testing
+
 AI SYSTEMS & DEPLOYMENT: API development (Flask/FastAPI) | Model deployment & integration | Building end-to-end ML pipelines | Real-time and batch inference systems | Cloud storage & model serving (AWS S3 / similar)
+
 SOFTWARE & ENGINEERING PRACTICES: Python programming | Version control (Git/GitHub) | Linux environment | Bash scripting 
 
 - **TOOLS:** Programming & Data: Python | SQL
