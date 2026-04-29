@@ -12,7 +12,13 @@ I am particularly interested in applying AI to large-scale customer ecosystems, 
 ## 🔧 Take a glance at my Projects
 ### Machine Learning
 - [A Loan Approval Model](https://github.com/dzumii/MLzoomcamp/tree/main/LoanApproval)
-  
+
+- [Churn Prediction](https://github.com/dzumii/ai_projects/tree/main/projects/churn_prediction)
+
+- [Fraud detection](https://github.com/dzumii/ai_projects/tree/main/projects/fraud_detection)
+
+- [Price recommender](https://github.com/dzumii/ai_projects/tree/main/projects/pricing_recommender)
+
 - [A Salary Prediction Model](https://github.com/dzumii/MLzoomcamp/tree/main/Predict_Salaries)
   
 - [Q&A LLM System](https://github.com/dzumii/AISOC_Projects/tree/main/Simple_LLM)
