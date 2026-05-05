@@ -44,9 +44,9 @@ What sets me apart is my ability to bridge analytics and AI, combining deep busi
   
 - AI & MACHINE LEARNING: Model development, training, evaluation, and optimization (supervised & unsupervised learning) | Deep Learning | Recommendation Systems | Natural Language Processing (NLP) | Retrieval-Augmented Generation (RAG) | Computer Vision (Object Detection – YOLO, Detectron2)
 
-- AI SYSTEMS & DEPLOYMENT: API development (Flask/FastAPI) | Model deployment & integration | Building end-to-end ML pipelines | Real-time and batch inference systems | Cloud storage & model serving (AWS S3 / similar)
+- AI SYSTEMS & DEPLOYMENT: API development (Flask/FastAPI) | Model deployment & integration | Building end-to-end ML pipelines | Real-time and batch inference systems | Cloud storage & model serving
 
-- SOFTWARE & ENGINEERING PRACTICES: Python programming | Version control (Git/GitHub) | Linux environment | Bash scripting 
+- SOFTWARE & ENGINEERING PRACTICES: Python programming | Version control | Linux environment | Bash scripting 
 
  **TOOLS:**
 - Programming & Data: Python | SQL
